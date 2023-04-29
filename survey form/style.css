@@ -1,0 +1,22 @@
+h1{
+    color:aqua
+}
+
+
+
+body{
+    background-color:#76a1a5;
+}
+
+
+input{
+    outline:100% 
+    padding: 12px*20px;
+    margin: 8px;
+    box-sizing:border-box;
+    background-color: grey;
+}
+
+button{
+    background-color:chocolate
+}
